@@ -51,7 +51,7 @@ Iniciaremos creando una carpeta desde la consola llamada: "Henry"
 Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 
 ```bash
-  cd ~
+  cd
 ```
 
 y presiona Enter. Una vez estés en el nivel superior, escribe:
@@ -157,7 +157,7 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
 ```bash
   Counting objects: 5, done.
   Delta compression using up to 8 threads.
-  Compressing objects: 100% (4/4), done.
+  Compressingit comming objects: 100% (4/4), done.
   Writing objects: 100% (5/5), 2.97 KiB | 0 bytes/s, done.
   Total 5 (delta 1), reused 0 (delta 0)
   remote: Resolving deltas: 100% (1/1), completed with 1 local object.
